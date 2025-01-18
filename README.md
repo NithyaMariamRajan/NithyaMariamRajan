@@ -65,7 +65,7 @@
 ✨ Let's Connect and Build Something Amazing! ✨
 
     </div>
-  </div>
+
 
 </body>
 </html>
