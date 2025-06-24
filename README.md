@@ -10,7 +10,6 @@
 
 - 🎓 I'm a final-year **BTech Computer Science** student at **Amal Jyothi College of Engineering**, with a strong interest in front-end and full-stack web development.
 - 💡 I love building interactive, user-friendly websites and turning ideas into functional, responsive web experiences.
-- 🚀 Currently deepening my knowledge in **JavaScript** and modern web technologies to prepare for real-world development challenges.
 - 🛠️ I enjoy working on personal and collaborative coding projects to sharpen my problem-solving and design skills.
 - 🌟 Eager to contribute to innovative tech teams and open to internship/job opportunities in **web development**, **UI/UX**, or **full-stack roles**.
 
@@ -63,8 +62,8 @@
 
 ### 📫 How to Reach Me
 
-- 📧 **Email**: [nithya.mariam.2003@gmail.com](mailto:nithya.mariam.2003@gmail.com)
-- 🌐 **LinkedIn**: *(Add your LinkedIn link here)*
+- 📧 **Email**: [nithyamariamrajan@gmail.com](mailto:nithyamariamrajan@gmail.com)
+- 🌐 **LinkedIn**: *(https://www.linkedin.com/in/nithya-mariam-rajan-695428254/)*
 
 ✨ Let's Connect and Build Something Amazing! ✨
 
