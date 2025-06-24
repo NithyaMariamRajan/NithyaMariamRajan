@@ -1,6 +1,5 @@
 <div align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" alt="hacker-team" width="800" height="auto"/>
-
+  <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" alt="coder-team" width="800" height="auto"/>
 
   <p align="center">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Nithya;Aspiring+Web+%26+App+Developer;BTech+CS+Student+%7C+UI%2FUX+Learner" alt="Typing SVG" />
@@ -8,6 +7,7 @@
 
   <h3>Creative Coder | Passionate Problem Solver | Future Tech Maker</h3>
 </div>
+
 ---
 
 ### 🌟 About Me
