@@ -1,6 +1,8 @@
 <div align="center">
   <img src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="logo" width="800" height="auto"/>
-  <h1>Hi 👋, I'm Nithya</h1>
+  <p align="center">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=4000&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Nithya;Aspiring+Web+%26+App+Developer;BTech+CS+Student+%7C+UI%2FUX+Learner" alt="Typing SVG" />
+  </p>
   <h3>Aspiring Web Developer | BTech Computer Science Student | Passionate Problem Solver</h3>
 </div>
 
@@ -43,10 +45,11 @@
 
 ---
 
-### 📚 I'm Currently Learning:
+### 🔧 Currently Building & Exploring:
 
-- **JavaScript**: Diving deep into dynamic web development!
-- Exploring new technologies and frameworks.
+- 🚀 Creating mobile apps with **Flutter** and beautiful interfaces that feel smooth and intuitive.  
+- 🌐 Building responsive, real-world websites with modern **web development** practices.  
+- 🎨 Exploring **UI/UX design** to craft clean, user-centered digital experiences.
 
 ---
 
@@ -62,9 +65,10 @@
 
 ### 📫 How to Reach Me
 
-- 📧 **Email**: [nithyamariamrajan@gmail.com](mailto:nithyamariamrajan@gmail.com)
-- 🌐 **LinkedIn**: *(https://www.linkedin.com/in/nithya-mariam-rajan-695428254/)*
+- 📧 **Email**: [nithyamariamrajan@gmail.com](mailto:nithyamariamrajan@gmail.com)  
+- 🌐 **LinkedIn**: [nithya-mariam-rajan](https://www.linkedin.com/in/nithya-mariam-rajan-695428254/)
 
 ✨ Let's Connect and Build Something Amazing! ✨
+
 
 
