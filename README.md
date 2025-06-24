@@ -16,7 +16,7 @@
 - 💡 Passionate about turning ideas into functional, elegant digital experiences
 - 🧠 Loves building websites & apps that solve real problems
 - 🌱 Actively upskilling in **Flutter**, **UI/UX**, and **modern web technologies**
-- 🚀 Open to opportunities in **Web/App Development**, **Front-End Engineering**, and **UI Design**
+- 🚀 Open to opportunities in **Web/App Development**, **Front-End and Back-End Engineering**, and **UI Design**
 
 ---
 
@@ -70,20 +70,12 @@
 
 ---
 
-### 📬 Let's Connect
-
-- 📧 **Email**: [nithyamariamrajan@gmail.com](mailto:nithyamariamrajan@gmail.com)  
-- 🌐 **LinkedIn**: [linkedin.com/in/nithya-mariam-rajan-695428254](https://www.linkedin.com/in/nithya-mariam-rajan-695428254/)
-
-<p align="center"><b>✨ Eager to collaborate, create, and grow — one line of code at a time! ✨</b></p>
-
-
 ### 📫 How to Reach Me
 
 - 📧 **Email**: [nithyamariamrajan@gmail.com](mailto:nithyamariamrajan@gmail.com)  
 - 🌐 **LinkedIn**: [nithya-mariam-rajan](https://www.linkedin.com/in/nithya-mariam-rajan-695428254/)
 
-✨ Let's Connect and Build Something Amazing! ✨
+<p align="center"><b>✨ Let's Connect and Build Something Amazing! ✨</b></p>
 
 
 
