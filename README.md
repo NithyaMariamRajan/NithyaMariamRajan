@@ -14,8 +14,6 @@
 
 ---
 
----
-
 ### 🛠️ Technologies & Tools
 
 <p align="center">
@@ -53,19 +51,18 @@
 
 ### 📈 My GitHub Stats
 
-![Nithya's GitHub stats](https://github-readme-stats.vercel.app/api?username=NithyaMariamRajan&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=NithyaMariamRajan&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical" alt="GitHub Stats"/>
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NithyaMariamRajan&theme=radical" alt="GitHub Streak"/>
+</p>
 
 ---
+
 ### 📫 How to Reach Me
 
 - 📧 **Email**: [nithya.mariam.2003@gmail.com](mailto:nithya.mariam.2003@gmail.com)
-- 🌐 **LinkedIn**:
+- 🌐 **LinkedIn**: *(Add your LinkedIn link here)*
 
 ✨ Let's Connect and Build Something Amazing! ✨
 
-    </div>
-
-
-</body>
-</html>
