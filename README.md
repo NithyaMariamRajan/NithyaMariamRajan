@@ -1,16 +1,18 @@
 <div align="center">
   <img src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="logo" width="800" height="auto"/>
   <h1>Hi 👋, I'm Nithya</h1>
-  <h3>Web Development Enthusiast | BTech Student at AMAL JYOTHI COLLEGE OF ENGINEERING</h3>
+  <h3>Aspiring Web Developer | BTech Computer Science Student | Passionate Problem Solver</h3>
 </div>
 
 ---
 
 ### 🌱 About Me
 
-- 🔭 I'm a **BTech** student at **AMAL JYOTHI COLLEGE OF ENGINEERING**, passionate about **web development**.
-- 🌱 Currently learning **JavaScript** to enhance my web development skills.
-- 💻 I enjoy building projects and solving problems through code.
+- 🎓 I'm a final-year **BTech Computer Science** student at **Amal Jyothi College of Engineering**, with a strong interest in front-end and full-stack web development.
+- 💡 I love building interactive, user-friendly websites and turning ideas into functional, responsive web experiences.
+- 🚀 Currently deepening my knowledge in **JavaScript** and modern web technologies to prepare for real-world development challenges.
+- 🛠️ I enjoy working on personal and collaborative coding projects to sharpen my problem-solving and design skills.
+- 🌟 Eager to contribute to innovative tech teams and open to internship/job opportunities in **web development**, **UI/UX**, or **full-stack roles**.
 
 ---
 
@@ -65,4 +67,5 @@
 - 🌐 **LinkedIn**: *(Add your LinkedIn link here)*
 
 ✨ Let's Connect and Build Something Amazing! ✨
+
 
